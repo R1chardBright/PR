@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\PR_IT-8_5\PR_IT_8\bin\Debug\Практика 8.exe.config
+C:\Users\student\source\repos\PR_IT-8_5\PR_IT_8\bin\Debug\Практика 8.exe
+C:\Users\student\source\repos\PR_IT-8_5\PR_IT_8\bin\Debug\Практика 8.pdb
+C:\Users\student\source\repos\PR_IT-8_5\PR_IT_8\obj\Debug\PR_IT_8.csprojAssemblyReference.cache
+C:\Users\student\source\repos\PR_IT-8_5\PR_IT_8\obj\Debug\Практика_8.Properties.Resources.resources
+C:\Users\student\source\repos\PR_IT-8_5\PR_IT_8\obj\Debug\PR_IT_8.csproj.GenerateResource.cache
+C:\Users\student\source\repos\PR_IT-8_5\PR_IT_8\obj\Debug\Практика 8.exe
+C:\Users\student\source\repos\PR_IT-8_5\PR_IT_8\obj\Debug\Практика 8.pdb
+C:\Users\student\source\repos\PR_IT-8_5\PR_IT_8\obj\Debug\Практика_8.pr.resources
